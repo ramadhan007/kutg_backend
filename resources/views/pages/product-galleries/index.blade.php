@@ -12,7 +12,7 @@
             <table class="table">
                 <thead>
                     <tr>
-                    <th>No</th>
+                    <th>Noo</th>
                     <th> Nama Barang</th>
                     <th>Foto </th>
                     <th>Default</th>
